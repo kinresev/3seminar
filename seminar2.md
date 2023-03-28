@@ -40,30 +40,6 @@ class="publisher-nav-color" data-nav="conversation">
  </li>
  <li class="dropdown user-menu" data-role="logout">
  <a href="#" class="dropdown-toggle" datatoggle="dropdown">
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
 <nav class="nav nav-primary">
  <ul>
  <li class="tab-conversation active">
